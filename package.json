@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "multer": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "author": "garima",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garimak29/node.git"
+  },
+  "keywords": [
+    "start",
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/garimak29/node/issues"
+  },
+  "homepage": "https://github.com/garimak29/node#readme",
+  "description": ""
+}
